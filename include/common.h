@@ -1,0 +1,7 @@
+#ifndef CACHIX_COMMON_H
+#define CACHIX_COMMON_H
+
+#define CACHIX_VERSION "0.1.0"
+#define CACHIX_DEFAULT_PORT 6379
+
+#endif
